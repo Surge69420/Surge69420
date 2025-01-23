@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is zain ul abdien i am pakistani raised in united arab emirates i currently reside in Portugal studying Multimedia in Aesm salvaterra de magos. I am a Game developer | Full stack web developer primarily i spend most of my free time just learning new things and improving</h2>
+<h2 align="left">Hi! My name is zain ul abdien i am a pakistani raised in united arab emirates i currently reside in Portugal studying Multimedia in Aesm salvaterra de magos. I am a Game developer | Full stack web developer primarily i spend most of my free time just learning new things and improving</h2>
 
 ###
 
